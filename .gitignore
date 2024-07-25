@@ -31,7 +31,6 @@ venv
 .envrc
 .direnv
 .vs
-.vscode
 *.bak
 *.ipynb
 *.log
@@ -48,3 +47,7 @@ wandb
 /docker-compose.yml
 /Dockerfile
 .env
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
