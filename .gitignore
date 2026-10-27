@@ -48,5 +48,4 @@ wandb
 /docker-compose.yml
 /Dockerfile
 .env
-.gitignore
 branch_structure.json
